@@ -33,3 +33,30 @@ Place: ECS Building, r. 3102
 ### Assignments (subject to change)
 
 ### Readings (subject to change)
+
+* Justin Littman, [Vulnerabilities in the U.S. Digital Registry, Twitter, and the Internet Archive](https://gwu-libraries.github.io/sfm-ui/posts/2017-11-06-vulnerabilities
+), 2017
+
+* Mohamed Aturban, Michele C. Weigle, Michael L. Nelson, Difficulties of Timestamping Archived Web Pages, Technical Report arXiv:1712.03140, 2017.
+
+* Scott G. Ainsworth, Michael L. Nelson, Herbert Van de Sompel, [Only One Out of Five Archived Web Pages Existed as Presented](https://ws-dl.blogspot.com/2015/12/2015-12-08-evaluating-temporal.html), Proceedings of Hypertext 2015, 2015.
+
+* Jack Cushman, Ilya Kreymer, [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html), 2017.
+
+* Jennifer Golbeck et al., [Fake News vs Satire: A Dataset and Analysis](https://github.com/jgolbeck/fakenews), Proceedings of the 10th ACM Conference on Web Science, 2018.
+
+* Amelia Acker, [Data Craft: The Manipulation of Social Media Metadata](https://datasociety.net/output/data-craft/), 2018.
+
+* Max Read, [How Much of the Internet Is Fake? Turns Out, a Lot of It, Actually](http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html), New York Magazine, 2018.
+
+* Ahmer Arif, Leo Graiden Stewart, Kate Starbird, [Acting the Part: Examining Information Operations Within# BlackLivesMatter Discourse](https://doi.org/10.1145/3274289), Proceedings of the ACM on Human-Computer Interaction - CSCW, 2018.
+
+* Michael L. Nelson, [Why we need multiple web archives: the case of blog.reidreport.com](https://ws-dl.blogspot.com/2018/04/2018-04-24-why-we-need-multiple-web.html), 2018.
+
+* Mohammed Nauman Siddique, ["Grampa, what's a deleted tweet?"](https://ws-dl.blogspot.com/2018/04/2018-04-23-grampa-whats-deleted-tweet.html), 2018.
+
+* Melanie Ehrenkranz, [How Archivists Could Stop Deepfakes From Rewriting History](https://gizmodo.com/how-archivists-could-stop-deepfakes-from-rewriting-hist-1829666009), 2018.
+
+* Kate Starbird, [The Surprising Nuance Behind the Russian Troll Strategy](https://medium.com/s/story/the-trolls-within-how-russian-information-operations-infiltrated-online-communities-691fb969b9e40, 2018.
+
+* Louise Lief, [What the news media can learn from librarians](https://www.cjr.org/innovations/librarians_journalism_lessons.php), Columbia Journalism Review, 2016.
