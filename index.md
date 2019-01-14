@@ -60,3 +60,11 @@ Place: ECS Building, r. 3102
 * Kate Starbird, [The Surprising Nuance Behind the Russian Troll Strategy](https://medium.com/s/story/the-trolls-within-how-russian-information-operations-infiltrated-online-communities-691fb969b9e40), 2018.
 
 * Louise Lief, [What the news media can learn from librarians](https://www.cjr.org/innovations/librarians_journalism_lessons.php), Columbia Journalism Review, 2016.
+
+* Ed Summers, [Delete Forensics](https://inkdroid.org/2017/08/18/delete-forensics/), 2017.
+
+* Ed Summers, [Blacktivists in the Archive](https://news.docnow.io/blacktivists-in-the-archive-71c807aa247e), 2017.
+
+* Clifford Lynch, [Stewardship in the 'Age of Algorithms'](https://journals.uic.edu/ojs/index.php/fm/article/view/8097/6583) First Monday 22(12), 2017.
+
+* Clifford Lynch, [Managing the Cultural Record in the Information Warfare Era](https://er.educause.edu/articles/2018/10/managing-the-cultural-record-in-the-information-warfare-era), EDUCAUSE Review 53(6), 2018.
