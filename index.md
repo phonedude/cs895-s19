@@ -37,7 +37,7 @@ Place: ECS Building, r. 3102
 * Justin Littman, [Vulnerabilities in the U.S. Digital Registry, Twitter, and the Internet Archive](https://gwu-libraries.github.io/sfm-ui/posts/2017-11-06-vulnerabilities
 ), 2017
 
-* Mohamed Aturban, Michele C. Weigle, Michael L. Nelson, Difficulties of Timestamping Archived Web Pages, Technical Report arXiv:1712.03140, 2017.
+* Mohamed Aturban, Michele C. Weigle, Michael L. Nelson, [Difficulties of Timestamping Archived Web Pages](https://arxiv.org/abs/1712.03140), Technical Report arXiv:1712.03140, 2017.
 
 * Scott G. Ainsworth, Michael L. Nelson, Herbert Van de Sompel, [Only One Out of Five Archived Web Pages Existed as Presented](https://ws-dl.blogspot.com/2015/12/2015-12-08-evaluating-temporal.html), Proceedings of Hypertext 2015, 2015.
 
