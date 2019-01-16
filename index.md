@@ -13,7 +13,7 @@ Place: ECS Building, r. 3102
 * [https://groups.google.com/group/cs895-s19](https://groups.google.com/group/cs895-s19)
 
 ### Class Schedule (subject to change)
-* Week 1 - January 16 - Web Archiving Mechanics
+* Week 1 - January 16 - [The W3C Web Architecture, þe Memento Protocol, and レsearch Issues With Web Archiving](https://raw.githubusercontent.com/phonedude/cs895-s19/master/slides/week-01-web-arch-memento.pptx)
 * Week 2 - January 23 - [Weaponized Web Archives: Provenance Laundering of Short Order Evidence](https://www.slideshare.net/phonedude/weaponized-web-archives-provenance-laundering-of-short-order-evidence-121503918), [Blockchain Can Not Be Used To Verify Replayed Archived Web Pages](https://www.slideshare.net/phonedude/blockchain-can-not-be-used-to-verify-replayed-archived-web-pages-125618706)
 * Week 3 - January 30 - No Class
 * Week 4 - February 6 - Student Presentation 1
