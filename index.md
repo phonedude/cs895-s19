@@ -17,14 +17,14 @@ Place: ECS Building, r. 3102
 * Week 2 - January 23 - [Weaponized Web Archives: Provenance Laundering of Short Order Evidence](https://www.slideshare.net/phonedude/weaponized-web-archives-provenance-laundering-of-short-order-evidence-121503918), [Blockchain Can Not Be Used To Verify Replayed Archived Web Pages](https://www.slideshare.net/phonedude/blockchain-can-not-be-used-to-verify-replayed-archived-web-pages-125618706)
 * Week 3 - January 30 - No Class
 * Week 4 - February 6 - Student Presentation 1
-** Nauman: Mohammed Nauman Siddique, ["Grampa, what's a deleted tweet?"](https://ws-dl.blogspot.com/2018/04/2018-04-23-grampa-whats-deleted-tweet.html), 2018.
-** Justin: Justin Littman, [Vulnerabilities in the U.S. Digital Registry, Twitter, and the Internet Archive](https://gwu-libraries.github.io/sfm-ui/posts/2017-11-06-vulnerabilities), 2017; Justin Littman,[Suspended U.S. government Twitter accounts](https://gwu-libraries.github.io/sfm-ui/posts/2017-11-04-digital-registry), 2017
+  * Nauman: Mohammed Nauman Siddique, ["Grampa, what's a deleted tweet?"](https://ws-dl.blogspot.com/2018/04/2018-04-23-grampa-whats-deleted-tweet.html), 2018.
+  * Justin: Justin Littman, [Vulnerabilities in the U.S. Digital Registry, Twitter, and the Internet Archive](https://gwu-libraries.github.io/sfm-ui/posts/2017-11-06-vulnerabilities), 2017; Justin Littman,[Suspended U.S. government Twitter accounts](https://gwu-libraries.github.io/sfm-ui/posts/2017-11-04-digital-registry), 2017
 * Week 5 - February 13 - Student Presentation 2
-** Matthew: Max Read, [How Much of the Internet Is Fake? Turns Out, a Lot of It, Actually](http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html), New York Magazine, 2018.
-** Puneeth:  Michael L. Nelson, [Why we need multiple web archives: the case of blog.reidreport.com](https://ws-dl.blogspot.com/2018/04/2018-04-24-why-we-need-multiple-web.html), 2018.
+  * Matthew: Max Read, [How Much of the Internet Is Fake? Turns Out, a Lot of It, Actually](http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html), New York Magazine, 2018.
+  * Puneeth:  Michael L. Nelson, [Why we need multiple web archives: the case of blog.reidreport.com](https://ws-dl.blogspot.com/2018/04/2018-04-24-why-we-need-multiple-web.html), 2018.
 * Week 6 - February 20 - Student Presentation 3
-** Vamsi: Scott G. Ainsworth, Michael L. Nelson, Herbert Van de Sompel, [Only One Out of Five Archived Web Pages Existed as Presented](https://ws-dl.blogspot.com/2015/12/2015-12-08-evaluating-temporal.html), Proceedings of Hypertext 2015, 2015.
-** Nauman: Jack Cushman, Ilya Kreymer, [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html), 2017.
+  * Vamsi: Scott G. Ainsworth, Michael L. Nelson, Herbert Van de Sompel, [Only One Out of Five Archived Web Pages Existed as Presented](https://ws-dl.blogspot.com/2015/12/2015-12-08-evaluating-temporal.html), Proceedings of Hypertext 2015, 2015.
+  * Nauman: Jack Cushman, Ilya Kreymer, [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html), 2017.
 * Week 7 - February 27 - Student Presentation 4
 * Week 8 - March 6 - Student Presentation 5
 * Week 9 - March 13 - No Class -- Spring Break
