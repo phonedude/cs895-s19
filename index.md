@@ -24,7 +24,6 @@ Place: ECS Building, r. 3102
   * Puneeth ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/bikkasandra/week-05-presentation/WhyDoWeNeedMultipleWebArchives.pptx)):  Michael L. Nelson, [Why we need multiple web archives: the case of blog.reidreport.com](https://ws-dl.blogspot.com/2018/04/2018-04-24-why-we-need-multiple-web.html), 2018.
 * Week 6 - February 20 - Student Presentation 3
   * Vamsi: Mohamed Aturban, Michele C. Weigle, Michael L. Nelson, [Difficulties of Timestamping Archived Web Pages](https://arxiv.org/abs/1712.03140), Technical Report arXiv:1712.03140, 2017.
-  * Nauman: Jack Cushman, Ilya Kreymer, [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html), 2017.
 * Week 7 - February 27 - Student Presentation 4
 * Week 8 - March 6 - Student Presentation 5
 * Week 9 - March 13 - No Class -- Spring Break
@@ -40,25 +39,14 @@ Place: ECS Building, r. 3102
 
 ### Readings (subject to change)
 
-* Justin Littman, [Vulnerabilities in the U.S. Digital Registry, Twitter, and the Internet Archive](https://gwu-libraries.github.io/sfm-ui/posts/2017-11-06-vulnerabilities), 2017
-
-* Mohamed Aturban, Michele C. Weigle, Michael L. Nelson, [Difficulties of Timestamping Archived Web Pages](https://arxiv.org/abs/1712.03140), Technical Report arXiv:1712.03140, 2017.
 
 * Scott G. Ainsworth, Michael L. Nelson, Herbert Van de Sompel, [Only One Out of Five Archived Web Pages Existed as Presented](https://ws-dl.blogspot.com/2015/12/2015-12-08-evaluating-temporal.html), Proceedings of Hypertext 2015, 2015.
-
-* Jack Cushman, Ilya Kreymer, [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html), 2017.
 
 * Jennifer Golbeck et al., [Fake News vs Satire: A Dataset and Analysis](https://github.com/jgolbeck/fakenews), Proceedings of the 10th ACM Conference on Web Science, 2018.
 
 * Amelia Acker, [Data Craft: The Manipulation of Social Media Metadata](https://datasociety.net/output/data-craft/), 2018.
 
-* Max Read, [How Much of the Internet Is Fake? Turns Out, a Lot of It, Actually](http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html), New York Magazine, 2018.
-
 * Ahmer Arif, Leo Graiden Stewart, Kate Starbird, [Acting the Part: Examining Information Operations Within# BlackLivesMatter Discourse](https://doi.org/10.1145/3274289), Proceedings of the ACM on Human-Computer Interaction - CSCW, 2018.
-
-* Michael L. Nelson, [Why we need multiple web archives: the case of blog.reidreport.com](https://ws-dl.blogspot.com/2018/04/2018-04-24-why-we-need-multiple-web.html), 2018.
-
-* Mohammed Nauman Siddique, ["Grampa, what's a deleted tweet?"](https://ws-dl.blogspot.com/2018/04/2018-04-23-grampa-whats-deleted-tweet.html), 2018.
 
 * Melanie Ehrenkranz, [How Archivists Could Stop Deepfakes From Rewriting History](https://gizmodo.com/how-archivists-could-stop-deepfakes-from-rewriting-hist-1829666009), 2018.
 
@@ -73,3 +61,15 @@ Place: ECS Building, r. 3102
 * Clifford Lynch, [Stewardship in the 'Age of Algorithms'](https://journals.uic.edu/ojs/index.php/fm/article/view/8097/6583) First Monday 22(12), 2017.
 
 * Clifford Lynch, [Managing the Cultural Record in the Information Warfare Era](https://er.educause.edu/articles/2018/10/managing-the-cultural-record-in-the-information-warfare-era), EDUCAUSE Review 53(6), 2018.
+
+* Luca Luceri, Ashok Deb, Adam Badawy, Emilio Ferrara , [Red Bots Do It Better: Comparative Analysis of Social Bot Partisan Behavior](https://arxiv.org/abs/1902.02765), Technical Report arXiv:1902.02765, 2019. 
+
+* Xinyi Zhou, Reza Zafarani, [Fake News: A Survey of Research, Detection Methods, and Opportunities](https://arxiv.org/abs/1812.00315),  Technical Report arXiv:1812.00315, 2018.
+
+* Brooke Auxier, Jennifer Golbeck, [The President on Twitter: A Characterization Study of @realDonaldTrump](https://scholar.google.com/scholar?oi=bibs&cluster=1302982240224928510&btnI=1&hl=en), Proceedings of the International Conference on Social Informatics, 2017.
+
+* Jennifer Golbeck, Cody Buntain, [This Paper is About Lexical Propagation on Twitter. H* ckin Smart. 12/10. Would Accept!](https://scholar.google.com/scholar?oi=bibs&cluster=209679957075183025&btnI=1&hl=en), Proceedings of the 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2018.
+
+* Jacob Eisenstein , Brendan O'Connor, Noah A. Smith, Eric P. Xing, [Diffusion of Lexical Change in Social Media](https://doi.org/10.1371/journal.pone.0113114), PLoS ONE 9(11), 2014.
+
+* Tom Wilson, Kaitlyn Zhou, Kate Starbird, [Assembling Strategic Narratives: Information Operations as Collaborative Work within an Online Community](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1080639935923696339), Proceedings of the ACM on Human-Computer Interaction - CSCW, 2018.
