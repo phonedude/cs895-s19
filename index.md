@@ -24,6 +24,7 @@ Place: ECS Building, r. 3102
   * Puneeth ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/bikkasandra/week-05-presentation/WhyDoWeNeedMultipleWebArchives.pptx)):  Michael L. Nelson, [Why we need multiple web archives: the case of blog.reidreport.com](https://ws-dl.blogspot.com/2018/04/2018-04-24-why-we-need-multiple-web.html), 2018.
 * Week 6 - February 20 - Student Presentation 3
   * Vamsi: Mohamed Aturban, Michele C. Weigle, Michael L. Nelson, [Difficulties of Timestamping Archived Web Pages](https://arxiv.org/abs/1712.03140), Technical Report arXiv:1712.03140, 2017.
+  * Nauman: Jack Cushman, Ilya Kreymer, [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html), 2017.
 * Week 7 - February 27 - Student Presentation 4
 * Week 8 - March 6 - Student Presentation 5
 * Week 9 - March 13 - No Class -- Spring Break
