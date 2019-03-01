@@ -24,9 +24,12 @@ Place: ECS Building, r. 3102
   * Puneeth ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/bikkasandra/week-05-presentation/WhyDoWeNeedMultipleWebArchives.pptx)):  Michael L. Nelson, [Why we need multiple web archives: the case of blog.reidreport.com](https://ws-dl.blogspot.com/2018/04/2018-04-24-why-we-need-multiple-web.html), 2018.
 * Week 6 - February 20 - Student Presentation 3
   * Vamsi: Mohamed Aturban, Michele C. Weigle, Michael L. Nelson, [Difficulties of Timestamping Archived Web Pages](https://arxiv.org/abs/1712.03140), Technical Report arXiv:1712.03140, 2017.
-  * Nauman ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/siddique/week-06-presentation/Thinking%20like%20a%20hacker.pptx)): Jack Cushman, Ilya Kreymer, [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html), 2017.
+  * Nauman: ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/siddique/week-06-presentation/Thinking%20like%20a%20hacker.pptx)): Jack Cushman, Ilya Kreymer, [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html), 2017.
 * Week 7 - February 27 - Student Presentation 4
 * Week 8 - March 6 - Student Presentation 5
+  * Nauman: Ed Summers, [Delete Forensics](https://inkdroid.org/2017/08/18/delete-forensics/), 2017.
+  * Justin: Clifford Lynch, [Managing the Cultural Record in the Information Warfare Era](https://er.educause.edu/articles/2018/10/managing-the-cultural-record-in-the-information-warfare-era), EDUCAUSE Review 53(6), 2018.
+  * Matthew: Ed Summers, [Blacktivists in the Archive](https://news.docnow.io/blacktivists-in-the-archive-71c807aa247e), 2017.
 * Week 9 - March 13 - No Class -- Spring Break
 * Week 10 - March 20 - Student Presentation 6
 * Week 11 - March 27 - Student Presentation 7
