@@ -63,3 +63,7 @@ Place: ECS Building, r. 3102
 * Jacob Eisenstein , Brendan O'Connor, Noah A. Smith, Eric P. Xing, [Diffusion of Lexical Change in Social Media](https://doi.org/10.1371/journal.pone.0113114), PLoS ONE 9(11), 2014.
 
 * Tom Wilson, Kaitlyn Zhou, Kate Starbird, [Assembling Strategic Narratives: Information Operations as Collaborative Work within an Online Community](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1080639935923696339), Proceedings of the ACM on Human-Computer Interaction - CSCW, 2018.
+
+### Current Events
+
+* [#cs895s19](https://twitter.com/search?f=tweets&vertical=default&q=%23cs895s19&src=typd)
