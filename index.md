@@ -64,6 +64,8 @@ Place: ECS Building, r. 3102
 
 * Tom Wilson, Kaitlyn Zhou, Kate Starbird, [Assembling Strategic Narratives: Information Operations as Collaborative Work within an Online Community](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1080639935923696339), Proceedings of the ACM on Human-Computer Interaction - CSCW, 2018.
 
+* Renee DiResta, [The Digital Maginot Line](https://www.ribbonfarm.com/2018/11/28/the-digital-maginot-line/), Ribbonfarm, 2018.  
+
 ### Current Events
 
 * [#cs895s19](https://twitter.com/search?f=tweets&vertical=default&q=%23cs895s19&src=typd)
