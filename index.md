@@ -27,7 +27,7 @@ Place: ECS Building, r. 3102
   * Nauman: ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/siddique/week-06-presentation/Thinking%20like%20a%20hacker.pptx)): Jack Cushman, Ilya Kreymer, [Thinking like a hacker: Security Considerations for High-Fidelity Web Archives](http://labs.rhizome.org/presentations/security.html), 2017; Ada Lerner, Tadayoshi Kohno, Franziska Roesner, [Rewriting history: Changing the archived web from the present](https://acmccs.github.io/papers/p1741-lernerAT3.pdf), Proceedings of the 2017 ACM SIGSAC, 2017.
 * Week 7 - February 27 - Student Forensics Studies 1
 * Week 8 - March 6 - Student Presentation 4
-  * Nauman ([slides](https://github.com/phonedude/cs895-s19/tree/master/assignments/siddique/week-08-presentation)): Ed Summers, [Delete Forensics](https://inkdroid.org/2017/08/18/delete-forensics/), 2017.
+  * Nauman ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/siddique/week-08-presentation/Delete%20Forensics.pptx)): Ed Summers, [Delete Forensics](https://inkdroid.org/2017/08/18/delete-forensics/), 2017.
   * Justin ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/whitlock/week-08-presentation/ManagingTheCulturalRecord.pptx)): Clifford Lynch, [Managing the Cultural Record in the Information Warfare Era](https://er.educause.edu/articles/2018/10/managing-the-cultural-record-in-the-information-warfare-era), EDUCAUSE Review 53(6), 2018.
   * Matthew ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/stevenson/week-08-presentation/BlacktivistsInTheArchive.pptx)): Ed Summers, [Blacktivists in the Archive](https://news.docnow.io/blacktivists-in-the-archive-71c807aa247e), 2017.
 * Week 9 - March 13 - No Class -- Spring Break
