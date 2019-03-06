@@ -28,8 +28,8 @@ Place: ECS Building, r. 3102
 * Week 7 - February 27 - Student Forensics Studies 1
 * Week 8 - March 6 - Student Presentation 4
   * Nauman: Ed Summers, [Delete Forensics](https://inkdroid.org/2017/08/18/delete-forensics/), 2017.
-  * Justin: Clifford Lynch, [Managing the Cultural Record in the Information Warfare Era](https://er.educause.edu/articles/2018/10/managing-the-cultural-record-in-the-information-warfare-era), EDUCAUSE Review 53(6), 2018.
-  * Matthew: Ed Summers, [Blacktivists in the Archive](https://news.docnow.io/blacktivists-in-the-archive-71c807aa247e), 2017.
+  * Justin ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/whitlock/week-08-presentation/ManagingTheCulturalRecord.pptx)): Clifford Lynch, [Managing the Cultural Record in the Information Warfare Era](https://er.educause.edu/articles/2018/10/managing-the-cultural-record-in-the-information-warfare-era), EDUCAUSE Review 53(6), 2018.
+  * Matthew ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/stevenson/week-08-presentation/BlacktivistsInTheArchive.pptx)): Ed Summers, [Blacktivists in the Archive](https://news.docnow.io/blacktivists-in-the-archive-71c807aa247e), 2017.
 * Week 9 - March 13 - No Class -- Spring Break
 * Week 10 - March 20 - Student Forensics Studies 2
 * Week 11 - March 27 - Student Presentation 5
