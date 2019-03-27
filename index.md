@@ -34,7 +34,7 @@ Place: ECS Building, r. 3102
 * Week 10 - March 20 - Student Forensics Studies 2
 * Week 11 - March 27 - Student Presentation 5
   * Vamsi: Brooke Auxier, Jennifer Golbeck, [The President on Twitter: A Characterization Study of @realDonaldTrump](https://scholar.google.com/scholar?oi=bibs&cluster=1302982240224928510&btnI=1&hl=en), Proceedings of the International Conference on Social Informatics, 2017.
-  * Puneeth: Kate Starbird, [The Surprising Nuance Behind the Russian Troll Strategy](https://medium.com/s/story/the-trolls-within-how-russian-information-operations-infiltrated-online-communities-691fb969b9e4), 2018.
+  * Puneeth ([slides](https://github.com/phonedude/cs895-s19/tree/master/assignments/bikkasandra/week-11-presentation)): Kate Starbird, [The Surprising Nuance Behind the Russian Troll Strategy](https://medium.com/s/story/the-trolls-within-how-russian-information-operations-infiltrated-online-communities-691fb969b9e4), 2018.
   * Matthew ([slides](https://github.com/phonedude/cs895-s19/tree/master/assignments/stevenson/week-11-presentation)): Jennifer Golbeck, Cody Buntain, [This Paper is About Lexical Propagation on Twitter. H* ckin Smart. 12/10. Would Accept!](https://scholar.google.com/scholar?oi=bibs&cluster=209679957075183025&btnI=1&hl=en), Proceedings of the 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2018.
 * Week 12 - April 3 - Student Forensics Studies 3
 * Week 13 - April 10 - No Class
