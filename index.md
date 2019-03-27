@@ -35,7 +35,7 @@ Place: ECS Building, r. 3102
 * Week 11 - March 27 - Student Presentation 5
   * Vamsi: Brooke Auxier, Jennifer Golbeck, [The President on Twitter: A Characterization Study of @realDonaldTrump](https://scholar.google.com/scholar?oi=bibs&cluster=1302982240224928510&btnI=1&hl=en), Proceedings of the International Conference on Social Informatics, 2017.
   * Puneeth: Kate Starbird, [The Surprising Nuance Behind the Russian Troll Strategy](https://medium.com/s/story/the-trolls-within-how-russian-information-operations-infiltrated-online-communities-691fb969b9e4), 2018.
-  * Matthew: Jennifer Golbeck, Cody Buntain, [This Paper is About Lexical Propagation on Twitter. H* ckin Smart. 12/10. Would Accept!](https://scholar.google.com/scholar?oi=bibs&cluster=209679957075183025&btnI=1&hl=en), Proceedings of the 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2018.
+  * Matthew ([slides](https://github.com/phonedude/cs895-s19/tree/master/assignments/stevenson/week-11-presentation)): Jennifer Golbeck, Cody Buntain, [This Paper is About Lexical Propagation on Twitter. H* ckin Smart. 12/10. Would Accept!](https://scholar.google.com/scholar?oi=bibs&cluster=209679957075183025&btnI=1&hl=en), Proceedings of the 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2018.
 * Week 12 - April 3 - Student Forensics Studies 3
 * Week 13 - April 10 - No Class
 * Week 14 - April 17 - Student Presentation 6
@@ -65,6 +65,8 @@ Place: ECS Building, r. 3102
 * Tom Wilson, Kaitlyn Zhou, Kate Starbird, [Assembling Strategic Narratives: Information Operations as Collaborative Work within an Online Community](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1080639935923696339), Proceedings of the ACM on Human-Computer Interaction - CSCW, 2018.
 
 * Renee DiResta, [The Digital Maginot Line](https://www.ribbonfarm.com/2018/11/28/the-digital-maginot-line/), Ribbonfarm, 2018.  
+
+* Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, [Understanding Web Archiving Services and Their (Mis)Use on Social Media](https://arxiv.org/abs/1801.10396), Proceedings of ICWSM 2018.
 
 ### Current Events
 
