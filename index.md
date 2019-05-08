@@ -33,23 +33,24 @@ Place: ECS Building, r. 3102
 * Week 9 - March 13 - No Class -- Spring Break
 * Week 10 - March 20 - Student Forensics Studies 2
 * Week 11 - March 27 - Student Presentation 5
-  * Vamsi: Brooke Auxier, Jennifer Golbeck, [The President on Twitter: A Characterization Study of @realDonaldTrump](https://scholar.google.com/scholar?oi=bibs&cluster=1302982240224928510&btnI=1&hl=en), Proceedings of the International Conference on Social Informatics, 2017.
+  * Vamsi ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/pabbisetty/week-11-presentation/week%2011.pptx)): Brooke Auxier, Jennifer Golbeck, [The President on Twitter: A Characterization Study of @realDonaldTrump](https://scholar.google.com/scholar?oi=bibs&cluster=1302982240224928510&btnI=1&hl=en), Proceedings of the International Conference on Social Informatics, 2017.
   * Puneeth ([slides](https://github.com/phonedude/cs895-s19/tree/master/assignments/bikkasandra/week-11-presentation)): Kate Starbird, [The Surprising Nuance Behind the Russian Troll Strategy](https://medium.com/s/story/the-trolls-within-how-russian-information-operations-infiltrated-online-communities-691fb969b9e4), 2018.
   * Matthew ([slides](https://github.com/phonedude/cs895-s19/tree/master/assignments/stevenson/week-11-presentation)): Jennifer Golbeck, Cody Buntain, [This Paper is About Lexical Propagation on Twitter. H* ckin Smart. 12/10. Would Accept!](https://scholar.google.com/scholar?oi=bibs&cluster=209679957075183025&btnI=1&hl=en), Proceedings of the 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), 2018.
 * Week 12 - April 3 - Student Forensics Studies 3
 * Week 13 - April 10 - No Class
 * Week 14 - April 17 - Student Presentation 6
   * Justin ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/whitlock/week-14-presentation/StopDeepFakesRewritingHistory.pptx)): Melanie Ehrenkranz, [How Archivists Could Stop Deepfakes From Rewriting History](https://gizmodo.com/how-archivists-could-stop-deepfakes-from-rewriting-hist-1829666009), 2018.
-  * Vamsi: Amelia Acker, [Data Craft: The Manipulation of Social Media Metadata](https://datasociety.net/output/data-craft/), 2018.
+  * Vamsi ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/pabbisetty/week-14-presentation/The%20Manipulation%20of%20%20Social%20Media%20Metadata.pptx)): Amelia Acker, [Data Craft: The Manipulation of Social Media Metadata](https://datasociety.net/output/data-craft/), 2018.
   * Puneeth ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/bikkasandra/week-14-presentation/FakeNewsVSSatireADatasetAndAnalysis.pptx)): Jennifer Golbeck et al., [Fake News vs Satire: A Dataset and Analysis](https://github.com/jgolbeck/fakenews), Proceedings of the 10th ACM Conference on Web Science, 2018.
 * Week 15 - April 24 - (no class)
 * Week 16 - May 1 - Exam week begins (no class)`
 * Week 17 - May 8 - Exam (Extra Credit Presentations)
+  * Vamsi ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/pabbisetty/week-17-presentation/Only%20One%20Out%20of%20Five%20Archived%20Web%20Pages.pptx)): Scott G. Ainsworth, Michael L. Nelson, Herbert Van de Sompel, [Only One Out of Five Archived Web Pages Existed as Presented](https://ws-dl.blogspot.com/2015/12/2015-12-08-evaluating-temporal.html), Proceedings of Hypertext 2015, 2015.
+  * Puneeth ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/bikkasandra/week-17-presentation/UnderstandingWebArchivingServicesAndTheir(Mis)UseonSocialMedia.pptx)): Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, [Understanding Web Archiving Services and Their (Mis)Use on Social Media](https://arxiv.org/abs/1801.10396), Proceedings of ICWSM 2018.
 
 ### Unassigned Readings 
 
 
-* Scott G. Ainsworth, Michael L. Nelson, Herbert Van de Sompel, [Only One Out of Five Archived Web Pages Existed as Presented](https://ws-dl.blogspot.com/2015/12/2015-12-08-evaluating-temporal.html), Proceedings of Hypertext 2015, 2015.
 
 * Ahmer Arif, Leo Graiden Stewart, Kate Starbird, [Acting the Part: Examining Information Operations Within# BlackLivesMatter Discourse](https://doi.org/10.1145/3274289), Proceedings of the ACM on Human-Computer Interaction - CSCW, 2018.
 
@@ -67,7 +68,6 @@ Place: ECS Building, r. 3102
 
 * Renee DiResta, [The Digital Maginot Line](https://www.ribbonfarm.com/2018/11/28/the-digital-maginot-line/), Ribbonfarm, 2018.  
 
-* Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, [Understanding Web Archiving Services and Their (Mis)Use on Social Media](https://arxiv.org/abs/1801.10396), Proceedings of ICWSM 2018.
 
 * Melanie Smith, [Archives: Facebook Finds “Coordinated and Inauthentic Behavior” In the Philippines; Suspends a Set of Pro-Government Pages Ahead of May Elections](https://medium.com/graphika-team/archives-facebook-finds-coordinated-and-inauthentic-behavior-in-the-philippines-suspends-a-set-d02f41f527df), 2019.
 
