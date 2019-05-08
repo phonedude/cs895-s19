@@ -39,11 +39,12 @@ Place: ECS Building, r. 3102
 * Week 12 - April 3 - Student Forensics Studies 3
 * Week 13 - April 10 - No Class
 * Week 14 - April 17 - Student Presentation 6
-  * Justin: Melanie Ehrenkranz, [How Archivists Could Stop Deepfakes From Rewriting History](https://gizmodo.com/how-archivists-could-stop-deepfakes-from-rewriting-hist-1829666009), 2018.
+  * Justin ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/whitlock/week-14-presentation/StopDeepFakesRewritingHistory.pptx)): Melanie Ehrenkranz, [How Archivists Could Stop Deepfakes From Rewriting History](https://gizmodo.com/how-archivists-could-stop-deepfakes-from-rewriting-hist-1829666009), 2018.
   * Vamsi: Amelia Acker, [Data Craft: The Manipulation of Social Media Metadata](https://datasociety.net/output/data-craft/), 2018.
-  * Puneeth: Jennifer Golbeck et al., [Fake News vs Satire: A Dataset and Analysis](https://github.com/jgolbeck/fakenews), Proceedings of the 10th ACM Conference on Web Science, 2018.
-* Week 15 - April 24 - reserved
-* Week 16 - May 1 - Exam week (Extra Credit Presentations)
+  * Puneeth ([slides](https://github.com/phonedude/cs895-s19/blob/master/assignments/bikkasandra/week-14-presentation/FakeNewsVSSatireADatasetAndAnalysis.pptx)): Jennifer Golbeck et al., [Fake News vs Satire: A Dataset and Analysis](https://github.com/jgolbeck/fakenews), Proceedings of the 10th ACM Conference on Web Science, 2018.
+* Week 15 - April 24 - (no class)
+* Week 16 - May 1 - Exam week begins (no class)`
+* Week 17 - May 8 - Exam (Extra Credit Presentations)
 
 ### Unassigned Readings 
 
@@ -67,6 +68,8 @@ Place: ECS Building, r. 3102
 * Renee DiResta, [The Digital Maginot Line](https://www.ribbonfarm.com/2018/11/28/the-digital-maginot-line/), Ribbonfarm, 2018.  
 
 * Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Michael Sirivianos, Gianluca Stringhini, [Understanding Web Archiving Services and Their (Mis)Use on Social Media](https://arxiv.org/abs/1801.10396), Proceedings of ICWSM 2018.
+
+* Melanie Smith, [Archives: Facebook Finds “Coordinated and Inauthentic Behavior” In the Philippines; Suspends a Set of Pro-Government Pages Ahead of May Elections](https://medium.com/graphika-team/archives-facebook-finds-coordinated-and-inauthentic-behavior-in-the-philippines-suspends-a-set-d02f41f527df), 2019.
 
 ### Current Events
 
